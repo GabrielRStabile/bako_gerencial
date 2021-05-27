@@ -1,16 +1,13 @@
-# bako_gerencial
+# Bako Gerencial
+> Esse projeto é uma extensão do aplicativo [Aventura com Bako](https://github.com/rodrigorafaeldamaceno/aventura_com_bako/ "Aventura com Bako")
 
-A new Flutter project.
+###Objetivo
+Desenvolver um painel gerencial em Dart com o framework Flutter para geração, manutenção, impressão de QRCodes.
+Pode estar presente, posteriormente, estatísticas de uso do aplicativo e escaneamento dos QRCodes do bosque.
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+###Tecnologias que serão utilizadas
+- [GetX](https://github.com/jonataslaw/getx/ "GetX")
+- [Firebase](https://github.com/FirebaseExtended/firebase-dart)
+- [FL Chart](https://github.com/imaNNeoFighT/fl_chart)
+- [Pixel_perfect](https://github.com/kherel/pixel_perfect)
+- [Google fonts](https://github.com/material-foundation/google-fonts-flutter/)
