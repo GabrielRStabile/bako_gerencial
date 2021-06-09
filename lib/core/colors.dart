@@ -9,3 +9,4 @@ const backgroundColor = Color(0xFFF3F4F8);
 const informationColor = Color(0xFF63C0DF);
 const errorColor = Color(0xFFE45555);
 const successColor = Color(0xFF009944);
+const backgroundPatternColor = Color(0xFF89A65F);
