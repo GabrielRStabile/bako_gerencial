@@ -10,6 +10,7 @@ environment:
 dependencies:
   flutter:
     sdk: flutter
+  flutter_svg: ^0.22.0
   get: ^4.1.4
   google_fonts: ^2.1.0
   pixel_perfect: ^1.1.0
@@ -21,4 +22,5 @@ dev_dependencies:
 flutter:
   assets:
     - assets/
+    - assets/pixel_perfect/login_screen1.png
   uses-material-design: true
