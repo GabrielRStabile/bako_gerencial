@@ -14,6 +14,7 @@ dependencies:
   get: ^4.1.4
   google_fonts: ^2.1.0
   pixel_perfect: ^1.1.0
+  simple_shadow: ^0.2.0
 
 dev_dependencies:
   flutter_test:
